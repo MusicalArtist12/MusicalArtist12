@@ -18,3 +18,7 @@ I'm a student at the University of Idaho studying Computer Science. I mainly cod
 - Discord: @MusicalArtist12
 
 You can also find me [here](https://Juliaviolet.dev/Contact)
+
+## AUR Contributions 
+
+- [auto-cpufreq](https://aur.archlinux.org/packages/auto-cpufreq)
