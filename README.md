@@ -10,8 +10,8 @@ I'm a student at the University of Idaho studying Computer Science. I mainly cod
 - AVR Assembly
 - Python
 - Latex
-- Rust
-- Linux CLI, some familiarity with the Arch Build System
+- Rust (*surface level* knowledge)
+- Linux + CLI (ask me about my system!)
 - Apache HTTP server
 
 ## Contact Info
