@@ -6,11 +6,13 @@ I'm a student at the University of Idaho studying Computer Science. I mainly cod
 
 - C/C++
 - React/Next.JS
-- HTML/CSS
+- HTML/CSS/JS
 - AVR Assembly
 - Python
 - Latex
 - Rust
+- Linux CLI, some familiarity with the Arch Build System
+- Apache HTTP server
 
 ## Contact Info
 
