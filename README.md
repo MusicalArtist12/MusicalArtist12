@@ -7,12 +7,12 @@ I'm a student at the University of Idaho studying Computer Science. I mainly cod
 - C/C++
 - React/Next.JS
 - HTML/CSS/JS
-- AVR Assembly
+- Assembly
 - Python
-- Latex
-- Rust (*surface level* knowledge)
+- LaTeX
+- Rust
 - Linux + CLI (ask me about my system!)
-- Apache HTTP server
+- Godot
 
 ## Contact Info
 
