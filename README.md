@@ -1,19 +1,17 @@
 # Julia Abdel-Monem
 
-I'm a student at the University of Idaho studying Computer Science. I mainly code in C and C++, but I also have experience in React/Next.JS, Python, and AVR assembly.
+I'm a Computer Scientist and Game Developer! I've been working primarily with Godot/GDScript but I also have extensive experience with C/C++, React (HTML/CSS/JS/TS), and Python. I also have working knowledge on Rust, C#, and Haskell. I pick up new programming languages and frameworks easily!
 
 ## Skills
 
 - C/C++
 - React/Next.JS
 - HTML/CSS/JS
-- Assembly
 - Python
 - LaTeX
-- Rust
 - Linux + CLI (ask me about my system!)
 - Godot
-- Mongodb
+- Mongodb and SQL
 
 ## Contact Info
 
